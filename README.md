@@ -49,6 +49,12 @@ Este gráfico compara o total de atendimentos realizados por cada servidor:
 
 ---
 
+##  Time do Projeto
+- Dilermando Afonso
+- Labelle Cândido
+- Michael Azevedo
+- Rafael "A lenda" Diniz
+
 ## 🚀 Como Executar o Projeto
 
 1. **Clone o repositório:**
