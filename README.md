@@ -8,7 +8,7 @@ Este projeto apresenta uma análise de desempenho e comportamento de servidores,
 
 ### 1. Gráfico de Pizza
 
-![Gráfico de Pizza](Grafico%20Pizza.png)
+![Gráfico de Pizza] ![Grafico Pizza](https://github.com/user-attachments/assets/91fd5faa-4704-40e5-8a83-047dd06c3d88)
 
 **Descrição:**  
 Este gráfico mostra a distribuição de redirecionamentos entre os servidores:  
