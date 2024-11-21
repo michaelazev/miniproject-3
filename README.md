@@ -32,7 +32,7 @@ Cada linha colorida indica um servidor diferente.
 
 ### 3. Gráfico de Barras
 
-![Grafico barras](https://github.com/user-attachments/assets/4dc9a2c0-75bf-48c6-a41f-0cdf01f1b154)
+![Grafico barras 1](https://github.com/user-attachments/assets/007058c8-97fe-479a-92d8-aed0aef7f792)
 
 **Descrição:**  
 Este gráfico compara o total de atendimentos realizados por cada servidor:  
