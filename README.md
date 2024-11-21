@@ -20,7 +20,7 @@ Este gráfico mostra a distribuição de redirecionamentos entre os servidores:
 
 ### 2. Gráfico de Linhas
 
-
+![Grafico Linhas](https://github.com/user-attachments/assets/6cf443d1-2cf9-4140-9b7d-db47cd472c18)
 
 **Descrição:**  
 Este gráfico monitora o status dos servidores ao longo do tempo:  
@@ -32,7 +32,7 @@ Cada linha colorida indica um servidor diferente.
 
 ### 3. Gráfico de Barras
 
-![Gráfico de Barras](./Grafico%20barras.png)  
+![Grafico barras](https://github.com/user-attachments/assets/4dc9a2c0-75bf-48c6-a41f-0cdf01f1b154)
 
 **Descrição:**  
 Este gráfico compara o total de atendimentos realizados por cada servidor:  
