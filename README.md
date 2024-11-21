@@ -53,7 +53,7 @@ Este gráfico compara o total de atendimentos realizados por cada servidor:
 - Dilermando Afonso
 - Labelle Cândido
 - Michael Azevedo
-- Rafael "A lenda" Diniz
+- Rafael Diniz
 
 ## 🚀 Como Executar o Projeto
 
